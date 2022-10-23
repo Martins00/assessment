@@ -6,6 +6,7 @@ import Product from "../components/Product";
 const Productdetail = () => {
     const { slug } = useParams()
     const [prod, setProd] = useState([])
+    console.log(slug)
     useEffect(() => {
         window.scrollTo({top: 0, left: 0, behavior: 'smooth'})
         const getProduct = async (url)=>{
