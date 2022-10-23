@@ -84,4 +84,4 @@ const Product = ({prod}) => {
      );
 }
  
-export default Prod?uct;
+export default Product;
