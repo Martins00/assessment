@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.14e5d7dc.css",
-    "main.js": "/static/js/main.e13d4913.js",
-    "static/js/787.01a743a1.chunk.js": "/static/js/787.01a743a1.chunk.js",
-    "static/media/shorts.jpg": "/static/media/shorts.c0ade4920a7359ff56ec.jpg",
-    "static/media/large-sizes.jpg": "/static/media/large-sizes.178f875ee7238a07e9d7.jpg",
-    "static/media/socks.jpg": "/static/media/socks.5b8ecaeab403301f0146.jpg",
-    "static/media/kids.jpg": "/static/media/kids.28070f548aa4687e86ee.jpg",
-    "static/media/goalkeeper.jpg": "/static/media/goalkeeper.4db9b713d63fe32ea5cf.jpg",
-    "static/media/pro-player.jpg": "/static/media/pro-player.12b2faa4e1fa3598f607.jpg",
-    "static/media/personalization.jpg": "/static/media/personalization.8998cd9b21a3ad46c934.jpg",
-    "static/media/social-networks.jpg": "/static/media/social-networks.fb327f192a4084df4808.jpg",
-    "static/media/payment-partners.png": "/static/media/payment-partners.7a456a6be732eac5c8aa.png",
-    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
-    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
-    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
-    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
-    "index.html": "/index.html",
-    "main.14e5d7dc.css.map": "/static/css/main.14e5d7dc.css.map",
-    "main.e13d4913.js.map": "/static/js/main.e13d4913.js.map",
-    "787.01a743a1.chunk.js.map": "/static/js/787.01a743a1.chunk.js.map"
+    "main.css": "/assessment/static/css/main.59184a87.css",
+    "main.js": "/assessment/static/js/main.85512606.js",
+    "static/js/787.01a743a1.chunk.js": "/assessment/static/js/787.01a743a1.chunk.js",
+    "static/media/shorts.jpg": "/assessment/static/media/shorts.c0ade4920a7359ff56ec.jpg",
+    "static/media/large-sizes.jpg": "/assessment/static/media/large-sizes.178f875ee7238a07e9d7.jpg",
+    "static/media/socks.jpg": "/assessment/static/media/socks.5b8ecaeab403301f0146.jpg",
+    "static/media/kids.jpg": "/assessment/static/media/kids.28070f548aa4687e86ee.jpg",
+    "static/media/goalkeeper.jpg": "/assessment/static/media/goalkeeper.4db9b713d63fe32ea5cf.jpg",
+    "static/media/pro-player.jpg": "/assessment/static/media/pro-player.12b2faa4e1fa3598f607.jpg",
+    "static/media/personalization.jpg": "/assessment/static/media/personalization.8998cd9b21a3ad46c934.jpg",
+    "static/media/social-networks.jpg": "/assessment/static/media/social-networks.fb327f192a4084df4808.jpg",
+    "static/media/payment-partners.png": "/assessment/static/media/payment-partners.7a456a6be732eac5c8aa.png",
+    "static/media/slick.svg": "/assessment/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/assessment/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/assessment/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/assessment/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/assessment/index.html",
+    "main.59184a87.css.map": "/assessment/static/css/main.59184a87.css.map",
+    "main.85512606.js.map": "/assessment/static/js/main.85512606.js.map",
+    "787.01a743a1.chunk.js.map": "/assessment/static/js/787.01a743a1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.14e5d7dc.css",
-    "static/js/main.e13d4913.js"
+    "static/css/main.59184a87.css",
+    "static/js/main.85512606.js"
   ]
 }
