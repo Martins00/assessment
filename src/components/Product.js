@@ -6,23 +6,23 @@ const Product = ({prod}) => {
             <div className="grid lg:grid-cols-2 justify-center gap-8">
                 <div className="img  ">
                     <div className='w-full mb-5'>
-                        <img src={prod.image} className="w-full" alt="" />
+                        <img src={prod?.image} className="w-full" alt="" />
                     </div>
                     <div className='flex gap-2 brorder'>
                         <div className='w-full'>
-                            <img src={prod.image} className="w-full" alt="" />
+                            <img src={prod?.image} className="w-full" alt="" />
                         </div>
                         <div className='w-full'>
-                            <img src={prod.image} className="w-full" alt="" />
+                            <img src={prod?.image} className="w-full" alt="" />
                         </div>
                         <div className='w-full'>
-                            <img src={prod.image} className="w-full" alt="" />
+                            <img src={prod?.image} className="w-full" alt="" />
                         </div>
                         <div className='w-full'>
-                            <img src={prod.image} className="w-full" alt="" />
+                            <img src={prod?.image} className="w-full" alt="" />
                         </div>
                         <div className='w-full'>
-                            <img src={prod.image} className="w-full" alt="" />
+                            <img src={prod?.image} className="w-full" alt="" />
                         </div>
                         
                     </div>
@@ -84,4 +84,4 @@ const Product = ({prod}) => {
      );
 }
  
-export default Product;
+export default Prod?uct;
